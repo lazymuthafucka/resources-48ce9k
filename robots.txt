@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lazymuthafucka.github.io/resources-48ce9k/sitemap.xml
